@@ -24,16 +24,14 @@ Here are some ideas to get you started:
     <!-- <a href="https://velog.io/@아이디" target="_blank"><img src = "https://img.shields.io/badge/Velog-20C997?logo=velog&logoColor=white"></a>-->
     <br>
 <br><br>
-<Strong>📧Email📧</Strong><br>dev.yohan05@gmail.com<br>
+<Strong>📧Email📧</Strong><br>@gmail.com<br>
 </p>
 
 <br>
 
 <p align="center">
 안녕하세요👐<br>
-제 이름은 노가성이고 DevOps Engineer엔지니어로 활동하고있습니다.<br>
-현재 광주소프트웨어마이스터고등학교를 졸업했으며<br> 
-배움을 중요시하는 개발자/엔지니어로 데굴데굴 구르고 배우고 있습니다!<br>
+제 이름은 
 </p>
 
 <br>

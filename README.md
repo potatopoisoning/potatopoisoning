@@ -13,66 +13,55 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc1cc&height=300&section=header&text=Potato's%20GitHub&fontSize=90&animation=fadeIn"/>
+<p>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc1cc&height=220&section=header&text=Potato's%20GitHub&fontSize=90&animation=fadeIn&fontColor=ffffff"/>
 </p>
+
+# 🔎 My Project
+
+# ⚙ My Skills
+
+## 💾 Databases
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+
+## 📚 Frameworks, Platforms and Libraries 
+ <div style="display: flex; align-items: flex-start;">
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+ </div>
+
+## 🛠 IDEs
+ <div style="display: flex; align-items: flex-start;">
+  <img src="https://img.shields.io/badge/Eclipse-7F5AB6.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJIDEA-FFFFFF.svg?style=for-the-badge&logo=intellij-idea&logoColor=a90533"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+ </div>
+
+## 📋 Languages
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://img.shields.io/badge/java-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-%23FF6666.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%23FFCC33.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23666666.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/markdown-%23996633.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+ </div>
+
+# 🎈 etc
+
+# 📬 Email
+@naver.com
 <br>
 
-<p align="center">
-    <Strong>☁️SNS list☁️</Strong><br><br>
-    <!-- <a href="https://www.instagram.com/아이디/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white"/></a>-->
-    <!-- <a href="https://velog.io/@아이디" target="_blank"><img src = "https://img.shields.io/badge/Velog-20C997?logo=velog&logoColor=white"></a>-->
-    <br>
-<br><br>
-<Strong>📧Email📧</Strong><br>@gmail.com<br>
-</p>
-
-<br>
-
-<p align="center">
-안녕하세요👐<br>
-제 이름은 
-</p>
-
-<br>
-
-<p align="center">
-    <Strong>⚒️Tech Stack⚒️</Strong><br>
-    💡usually use it and I'm most confident.
-</p>
-
-<p align="center" display="inline-block">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
-    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white">
-</p><br>
-
-<p align="center">
-    💡used at least once
-</p>
-
-<p align="center" display="inline-block">
- 
-  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-      <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <br>
-    <img src="https://img.shields.io/badge/svelte-E34F26?style=for-the-badge&logo=svelte&logoColor=white">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=black">
-    <img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-</p>
-
-
-<br>
-
-<div align=center>
+<div>
     
 
-![NohGaSeong's github stats](https://github-readme-stats.vercel.app/api?username=NohGaSeong&show_icons=true)
+![potatopoisoning's github stats](https://github-readme-stats.vercel.app/api?username=potatopoisoning&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potatopoisoning)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
+<p>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc1cc&height=220&section=footer&text=Potato's%20GitHub&fontSize=90&animation=fadeIn&fontColor=ffffff"/>
+</p>
 

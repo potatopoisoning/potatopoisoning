@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 ## 🛠 IDEs
  <div style="display: flex; align-items: flex-start;">
   <img src="https://img.shields.io/badge/Eclipse-7F5AB6.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJIDEA-FFFFFF.svg?style=for-the-badge&logo=intellij-idea&logoColor=a90533"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
  </div>
 
@@ -45,7 +44,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/html5-%23FF6666.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%23FFCC33.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23666666.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/markdown-%23996633.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
  </div>
 

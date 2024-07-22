@@ -55,9 +55,10 @@ Here are some ideas to get you started:
 
 <div>
     
-
 ![potatopoisoning's github stats](https://github-readme-stats.vercel.app/api?username=potatopoisoning&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potatopoisoning)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ydhb97)](https://solved.ac/ydhb97/)
 </div>
 <p>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc1cc&height=220&section=footer&text=Potato's%20GitHub&fontSize=90&animation=fadeIn&fontColor=ffffff"/>

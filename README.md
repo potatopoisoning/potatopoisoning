@@ -17,8 +17,6 @@ Here are some ideas to get you started:
     <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc1cc&height=220&section=header&text=Potato's%20GitHub&fontSize=90&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
-# 🔎 My Project
-
 # ⚙ My Skills
 
 ## 💾 Databases
